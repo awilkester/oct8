@@ -2,7 +2,7 @@ package main.java;
 
 import java.util.regex.*;
 
-public class phraseVowels {
+public class PhraseVowels {
     String regex = "[aeiou]";
 
     public static int phraseVowels(String input, String x){
