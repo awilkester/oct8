@@ -2,7 +2,7 @@ package main.java;
 
 import java.util.regex.*;
 
-public class trapFind {
+public class TrapFind {
 
     public static String trapFind(String input){
         Pattern p = Pattern.compile("trap");
